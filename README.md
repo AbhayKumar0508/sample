@@ -1,3 +1,3 @@
 Name : Abhay kumar
 <br>
-course : MCA
+course : MCA & BCA
